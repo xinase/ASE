@@ -1,6 +1,12 @@
 # 《构建之法》第四版 网上资源介绍
 
-创建于 2017年， 这个 Github 仓库包含了 《构建之法》历年来的课件。 每一章的其他支持内容都在博客园中不断地更新： https://www.cnblogs.com/xinz/archive/2011/11/27/2265425.html。  在 2026 年本书第四版正式出版之际，我把所有章节的参考文献，扩展阅读推荐，练习与思考都整理放到这里。 
+创建于 2017年， 这个 Github 仓库包含了 《构建之法》历年来的课件。 每一章的其他支持内容都在博客园中不断地更新： https://www.cnblogs.com/xinz/archive/2011/11/27/2265425.html。  在 2026 年本书第四版正式出版之际，我把所有章节的参考文献，扩展阅读推荐，练习与思考都整理放到这个仓库里，在每一章的 readme.md 文件中，例如：
+
+https://github.com/xinase/ASE/blob/master/chapter1/readme.md
+https://github.com/xinase/ASE/blob/master/chapter2/readme.md
+...
+https://github.com/xinase/ASE/blob/master/chapter17/readme.md
+
 
 
 **全书导读：如何最大化利用每章附录，真正把知识转化为能力**
@@ -60,9 +66,3 @@
 你已经不再是那个“学过软件工程”的学生，  
 而是真正能**领导自己、领导团队、领导产品**的工程师。
 
-欢迎你把练习中的思考、讨论记录、甚至争议，发到博客、论坛或朋友圈。  
-我们期待看到你的成长。
-
-——  
-你的软件工程老兵与创业教练  
-2026年4月
