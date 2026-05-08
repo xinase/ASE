@@ -49,7 +49,9 @@ https://github.com/xinase/ASE/blob/master/chapter17/readme.md
 最后的话
 这本书的正文教你“是什么”和“为什么”， 附录则侧重于 “怎么做”和“如果是我，我会怎么选择”。 我和其他同事以及社区的伙伴正在下面的社区中开展实战驱动的教学：
 
-https://gitee.com/zgcai/vibecode-bootcamp/blob/master/README.md 欢迎大家参加。 相关的网上课程和测试可以从这个索引页面中找到： https://pq.lab.bza.edu.cn/。
+https://gitee.com/zgcai/vibecode-bootcamp/blob/master/README.md 欢迎大家参加。 
+相关的网上课程智能体在这里：https://se.lab.bza.edu.cn/
+相关的工具 PopQuiz 在这里：https://pq.lab.bza.edu.cn/。
 真正的软件工程师，不是背会了最多概念的人，而是能在复杂、不确定、充满AI辅助的环境中，依然保持清晰思考、勇于承担责任、并带领团队持续交付价值的人。
 
 去练习，去讨论，去碰撞。 当你把17章的附录都认真走完一遍，你会发现：
