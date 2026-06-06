@@ -1,10 +1,10 @@
 # ASE
-Advanced Software Engineering course materials, for the book <Advanced Software Engineering> (build to win). 
+Advanced Software Engineering course materials, for the book ”Advanced Software Engineering(build to win)”, author: Xin Zou (邹欣). 
 ---
 《构建之法》第四版 网上资源介绍
 创建于 2017年， 这个 Github 仓库包含了 《构建之法》历年来的课件。 每一章的其他支持内容都在博客园中不断地更新： https://www.cnblogs.com/xinz/archive/2011/11/27/2265425.html。 在 2026 年本书第四版正式出版之际，我把所有章节的参考文献，扩展内容，扩展阅读推荐，练习与思考都整理到这个仓库里，在每一章的 readme.md 文件和其他文件中，例如：
 
-github:
+github:  
 https://github.com/xinase/ASE/blob/master/chapter1/readme.md
 
 https://github.com/xinase/ASE/blob/master/chapter2/readme.md
