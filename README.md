@@ -2,8 +2,9 @@
 Advanced Software Engineering course materials, for the book <Advanced Software Engineering> (build to win). 
 ---
 《构建之法》第四版 网上资源介绍
-创建于 2017年， 这个 Github 仓库包含了 《构建之法》历年来的课件。 每一章的其他支持内容都在博客园中不断地更新： https://www.cnblogs.com/xinz/archive/2011/11/27/2265425.html。 在 2026 年本书第四版正式出版之际，我把所有章节的参考文献，扩展阅读推荐，练习与思考都整理放到这个仓库里，在每一章的 readme.md 文件中，例如：
+创建于 2017年， 这个 Github 仓库包含了 《构建之法》历年来的课件。 每一章的其他支持内容都在博客园中不断地更新： https://www.cnblogs.com/xinz/archive/2011/11/27/2265425.html。 在 2026 年本书第四版正式出版之际，我把所有章节的参考文献，扩展内容，扩展阅读推荐，练习与思考都整理到这个仓库里，在每一章的 readme.md 文件和其他文件中，例如：
 
+github:
 https://github.com/xinase/ASE/blob/master/chapter1/readme.md
 
 https://github.com/xinase/ASE/blob/master/chapter2/readme.md
@@ -12,14 +13,18 @@ https://github.com/xinase/ASE/blob/master/chapter2/readme.md
   
 https://github.com/xinase/ASE/blob/master/chapter17/readme.md
 
+gitee(内容镜像):
+https://gitee.com/zouxin2025/ASE/
+
 ## 全书导读：如何最大化利用每章附录，真正把知识转化为能力
 
 这些附录中的内容是《现代软件工程》第四版的重要补充，我把很多因为纸版书篇幅限制的思考，问答和最新的扩展阅读放在其中。 它们是连接“理论”与不断变化的“真实世界”的桥梁。
 
 为什么附录重要？
-每一章的附录包含以下三部分：
+每一章的附录包含：
 
 参考文档：和本章重要概念相关的参考资料。
+扩展内容：在纸版书中放不下的一些扩展内容。
 扩展阅读：有价值的资料，支持或者反对本章的一些观点，值得去了解。
 思考与练习（最重要）：这是专门为你量身定制的实战训练场。
 这些练习不是简单的“背诵题”，而是开放性、反思性、讨论性的问题。很多题目在AI时代没有标准答案，正是为了逼着你去思考、去争论、去实践。
