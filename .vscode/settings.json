@@ -1,0 +1,7 @@
+{
+    // 设置图片存放路径：当前文件所在目录下的 img 文件夹
+    "pasteImage.path": "${currentFileDir}/img",
+    
+    // 设置插入 Markdown 的图片引用格式
+    "pasteImage.insertPattern": "![](./img/${imageFileName})"
+}
