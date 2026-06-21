@@ -2,9 +2,9 @@
 
 ## 前面关于软件复杂性的讨论
 
-[1. 软件的分形有三种？](https://mp.weixin.qq.com/s/ie1lvOmT366AEdhAk5bzIQ)  
-[2. 抽象并不是银弹？](https://mp.weixin.qq.com/s/2kQT3yo8OAPwMPGxhFy9pA)  
-[3. AI 自动写代码，银弹？](https://mp.weixin.qq.com/s/SvzD7groV4LT33wpqoMV0g)
+[1. 软件的分形，和英国海岸线还要复杂？](https://mp.weixin.qq.com/s/ie1lvOmT366AEdhAk5bzIQ)  
+[2. 软件的抽象，是银弹？](https://mp.weixin.qq.com/s/2kQT3yo8OAPwMPGxhFy9pA)  
+[3. AI 自动写代码，是银弹？](https://mp.weixin.qq.com/s/SvzD7groV4LT33wpqoMV0g)
 
 ---
 
