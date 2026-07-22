@@ -51,7 +51,11 @@ $$\text{生态复杂度} = \text{用户数} \times \text{系统可观察维度} 
 
 我们不是第一个撞上这堵墙的。
 
-Raymond Chen 在《The Old New Thing》里写了几十年 Windows 开发的故事，核心主题就是当一个系统被几亿人用的时候，你永远想不到他们会依赖什么隐性行为。Joel Spolsky 记录过一个经典案子：Windows 3.x 版的《模拟城市》（SimCity）有一个“释放内存后继续读取”（Use-After-Free）的严重 Bug。在旧版系统里这个 Bug 没触发崩溃，但到了 Windows 95，全新的 32 位内存分配器让游戏一开就死机。微软工程师没有逼游戏厂商打补丁，而是在 Windows 95 里写了专门的代码：**只要检测到运行的是 SimCity，就自动将内存分配器切换到不立即释放内存的特殊兼容模式。**
+Raymond Chen 在《The Old New Thing》里写了几十年 Windows 开发的故事，核心主题就是当一个系统被几亿人用的时候，你永远想不到他们会依赖什么隐性行为。他在书中为 “Backward Compatibility” 贡献了一整章的案例：
+
+![alt text](image-21.png)
+
+Joel Spolsky 记录过一个经典案子：Windows 3.x 版的《模拟城市》（SimCity）有一个“释放内存后继续读取”（Use-After-Free）的严重 Bug。在旧版系统里这个 Bug 没触发崩溃，但到了 Windows 95，全新的 32 位内存分配器让游戏一开就死机。微软工程师没有逼游戏厂商打补丁，而是在 Windows 95 里写了专门的代码：**只要检测到运行的是 SimCity，就自动将内存分配器切换到不立即释放内存的特殊兼容模式。**
 
 如果说 Windows 是客户端时代的遗迹，那么最近热门的 **pgrust**（由 AI 辅助用 Rust 重写 PostgreSQL 的开源项目）则在基础设施层面再次验证了 Hyrum 定律的威力：
 （下面内容引用于 数据库专家冯若航的知乎文章： https://zhuanlan.zhihu.com/p/2060038538951910350 ）
