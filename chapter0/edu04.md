@@ -1,7 +1,7 @@
 # 构建新关系：老师 - AI - 学生的协同
 
 这是 2026/7/29 CCF 未来计算机教育峰会的系列文章之四
-![alt text](58dced1f763c02f84f371abf035e1eaf.jpg)
+![alt text](image-11.jpg)
 
 [系列文章 1](https://gitee.com/zouxin2025/ASE/blob/master/chapter0/edu01.md)  
 [系列文章 2](https://gitee.com/zouxin2025/ASE/blob/master/chapter0/edu02.md)  
