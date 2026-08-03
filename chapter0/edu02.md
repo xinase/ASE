@@ -6,9 +6,13 @@
 ## 第二篇：手写代码、以终为始、设计摩擦——训练的本质
 
 这是 2026/7/29 CCF 未来计算机教育峰会的系列文章之二:  
-![FCES 论坛](forum_group.jpeg)  
+![FCES 论坛](forum_group.jpeg)   
+
 [系列文章 1](https://gitee.com/zouxin2025/ASE/blob/master/chapter0/edu01.md)  
-[系列文章 2](https://gitee.com/zouxin2025/ASE/blob/master/chapter0/edu02.md) 
+[本文](https://gitee.com/zouxin2025/ASE/blob/master/chapter0/edu02.md) 
+[系列文章 3](https://gitee.com/zouxin2025/ASE/blob/master/chapter0/edu03.md)   
+[系列文章 4](https://gitee.com/zouxin2025/ASE/blob/master/chapter0/edu04.md)  
+
 
 ### 一、一个让一线教师失眠的问题
 

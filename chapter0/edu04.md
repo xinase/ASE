@@ -6,7 +6,7 @@
 [系列文章 1](https://gitee.com/zouxin2025/ASE/blob/master/chapter0/edu01.md)  
 [系列文章 2](https://gitee.com/zouxin2025/ASE/blob/master/chapter0/edu02.md)  
 [系列文章 3](https://gitee.com/zouxin2025/ASE/blob/master/chapter0/edu03.md)   
-[系列文章 4](https://gitee.com/zouxin2025/ASE/blob/master/chapter0/edu04.md)
+[本文](https://gitee.com/zouxin2025/ASE/blob/master/chapter0/edu04.md)
 
 
 ## 一、上学上课，妨碍了学习和成长？

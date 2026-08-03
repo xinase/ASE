@@ -4,8 +4,8 @@
 ![拥挤的会场](image-9.png)  与会者反映，我们的论坛是当天下午讨论最热烈和最拥挤的会场。  
 [系列文章 1](https://gitee.com/zouxin2025/ASE/blob/master/chapter0/edu01.md)  
 [系列文章 2](https://gitee.com/zouxin2025/ASE/blob/master/chapter0/edu02.md)  
-[系列文章 3](https://gitee.com/zouxin2025/ASE/blob/master/chapter0/edu03.md)   
-[系列文章 4](https://gitee.com/zouxin2025/ASE/blob/master/chapter0/edu04.md) 
+[本文](https://gitee.com/zouxin2025/ASE/blob/master/chapter0/edu03.md)   
+[系列文章 4](https://gitee.com/zouxin2025/ASE/blob/master/chapter0/edu04.md)  
 
 
 ## 一、 焦虑与真相

@@ -2,7 +2,14 @@
 
 ![FCES](image.png)
 
-2026年7月29日，我参加了CCF未来计算机教育峰会，并在"LLM与Agent时代的编程课与软工课怎么改"专题论坛上做了交流。会上的讨论很热烈，据听众反映这是当天下午最吸引人的论坛。会后大家在论坛组织者王忠杰老师的微信群里继续讨论，下面的系列文章，是我的一些思考。
+2026年7月29日，我参加了CCF未来计算机教育峰会，并在"LLM与Agent时代的编程课与软工课怎么改"专题论坛上做了交流。会上的讨论很热烈，据听众反映这是当天下午最吸引人的论坛。会后大家在论坛组织者王忠杰老师的微信群里继续讨论，下面的系列文章，是我的一些思考： 
+
+[本文](https://gitee.com/zouxin2025/ASE/blob/master/chapter0/edu01.md)  
+[系列文章 2](https://gitee.com/zouxin2025/ASE/blob/master/chapter0/edu02.md)  
+[系列文章 3](https://gitee.com/zouxin2025/ASE/blob/master/chapter0/edu03.md)   
+[系列文章 4](https://gitee.com/zouxin2025/ASE/blob/master/chapter0/edu04.md)  
+[我在中关村学院的经验总结](https://gitee.com/zouxin2025/ASE/blob/master/chapter0/zgc-edu-2026-07.md)
+
 
 ## 第一篇：AI赋能千行百业，但专家在何处？
 
