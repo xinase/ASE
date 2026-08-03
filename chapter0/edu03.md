@@ -1,7 +1,7 @@
 # 大学精神的回归 —— 从“职业短训班”到“未来的主人翁培养”
 
 这是 2026/7/29 CCF 未来计算机教育峰会的系列文章之三:  
-![拥挤的会场](image-9.png)  与会者反映，我们的论坛是当天下午讨论最热烈和最拥挤的会场。  
+![拥挤的会场](image-9.png)  与会者反映，我们的论坛是当天下午讨论最热烈和最拥挤的会场。   
 [系列文章 1](https://gitee.com/zouxin2025/ASE/blob/master/chapter0/edu01.md)  
 [系列文章 2](https://gitee.com/zouxin2025/ASE/blob/master/chapter0/edu02.md)  
 [本文](https://gitee.com/zouxin2025/ASE/blob/master/chapter0/edu03.md)   
