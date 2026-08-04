@@ -1,4 +1,15 @@
-# 第一篇：AI赋能千行百业，但专家在何处？
+# 前言
+2026-7-29，我参加了在重庆举办的 FCES 未来教育峰会，我在王忠杰老师主持的 《LLM 和 Agent 时代的编程与软件工程课怎么改》论坛。 下面的系列文章是会后的一些思考。 
+
+![](image.png)
+
+# 第一篇：要成为专家，才能让 AI 赋能， CS 专业也需要 CS 专家
+
+[系列文章 1](https://gitee.com/zouxin2025/ASE/blob/master/chapter0/edu01.md)  
+[系列文章 2](https://gitee.com/zouxin2025/ASE/blob/master/chapter0/edu02.md)  
+[系列文章 3](https://gitee.com/zouxin2025/ASE/blob/master/chapter0/edu03.md)   
+[系列文章 4](https://gitee.com/zouxin2025/ASE/blob/master/chapter0/edu04.md)  
+[中关村学院经验介绍](https://gitee.com/zouxin2025/ASE/blob/master/chapter0/zgc-edu-2026-07.md)   
 
 ## 一、一个必须回答的前提问题
 
