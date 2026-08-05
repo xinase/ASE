@@ -7,7 +7,8 @@
 [系列文章 2](https://gitee.com/zouxin2025/ASE/blob/master/chapter0/edu02.md)  
 [系列文章 3](https://gitee.com/zouxin2025/ASE/blob/master/chapter0/edu03.md)   
 [本文](https://gitee.com/zouxin2025/ASE/blob/master/chapter0/edu04.md)
-
+[中关村学院经验介绍](https://gitee.com/zouxin2025/ASE/blob/master/chapter0/zgc-edu-2026-07.md)   
+[本科理工科的第一门软件课怎么教](https://gitee.com/zouxin2025/ASE/blob/master/chapter0/cs101.md)   
 
 ## 一、上学上课，妨碍了学习和成长？
 
