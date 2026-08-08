@@ -1,4 +1,4 @@
-#拿捏克奈文模型 Complicated 与 Complex 的分界线
+# 拿捏克奈文模型 Complicated 与 Complex 的分界线
 
 ## 一、Cynefin 模型：大多数人只是记住了名词
 
