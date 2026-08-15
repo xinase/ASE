@@ -159,3 +159,4 @@ AI时代，知识获取将愈发廉价，但**认知的跃升、批判性思维�
 - Michael Hiltzik, *Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age*, 1999
 - 倪忆，《王虹北大足迹之本科生阅览室》（微信公众号“普林小虎队”，2026年8月）https://mp.weixin.qq.com/s/3oNqd6hi-9yAqfOpA0jjhw
 - 邹欣，《现代软件工程 怎么教好课》（博客园，2011年12月） https://www.cnblogs.com/xinz/archive/2011/12/29/2306652.html 
+- 中关村学院研究生会，《绝了，这门课居然在教室开起了发布会》 https://mp.weixin.qq.com/s/Rls8GpojX0ftYpMxgZ5m9g 
