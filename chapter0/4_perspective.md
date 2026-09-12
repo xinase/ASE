@@ -2,10 +2,21 @@
 
 ## ——AI 时代的软件工程课，从纯软件到智能硬件
 
-2025 年秋季，我们开了一门“AI 时代的软件工程课”。今年秋季，课程继续开设，焦点从纯软件转向“AI 时代的智能硬件”。课程链接：  
-https://gitee.com/vibe-coding-2026-9/zgca_mse_202609
+2025 年秋季，我们开了一门“AI 时代的软件工程课”。也有一些总结：
+软件工程的 “船舱、甲板、山巅”：  
+https://mp.weixin.qq.com/s/ChGA05sc-s7I1foW9HFrQg  
 
-在进入新一季课程之前，回头总结去年四个视角下的教学收获，能帮我们更好地上好今年的课。
+把 “发布会” 开到了教室：  
+https://mp.weixin.qq.com/s/Rls8GpojX0ftYpMxgZ5m9g  
+
+今年秋季，课程继续开设，焦点从纯软件转向“AI 时代的智能硬件”。课程链接：  
+https://gitee.com/vibe-coding-2026-9/zgca_mse_202609 
+还有其它院校（如 福州大学）也开辟了公开的软件工程课： 
+https://bbs.csdn.net/forums/FZU_university_2026  
+https://bbs.csdn.net/forums/2601_CS_SE_FZU  
+https://bbs.csdn.net/forums/2601_MU_SE_FZU 
+
+在进入新一季课程之前，回头总结去年多个视角下的教学收获，能帮我们更好地上好今年的课。
 
 我们可以从四个层层递进的视角来观察软件工程，以及个人在其中能起的作用：**船舱、甲板、山巅、总观**。前三个视角关注“我们在做什么”，第四个视角关注“我们为什么这样做”。
 
