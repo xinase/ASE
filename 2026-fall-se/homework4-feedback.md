@@ -41,7 +41,7 @@
 链接：https://gitee.com/zanjiabao/homework4/blob/master/Homework4.md
 反馈： 从我看到的数据， 并不支持：在 【桌面右侧约 40 cm × 30 cm 的区域】取东西是一个强需求。 这个项目的技术含量高，但是要选好场景。 
 
-
+### 团团（下面 4 人）
 姓名：崇瑞宁
 链接：https://gitee.com/rainy_C/software-engineer/blob/master/Homework_4.md   
 反馈： 项目“团团”， 做到了把产品想法具体化、可视化，
@@ -54,7 +54,6 @@ N（需求）：用户是否真的希望获得此类互动？其需求发生在�
 姓名：贾适萌
 链接：https://gitee.com/jasmer/mse/blob/master/hw4.md   
 反馈：团团项目，亮点是对家人（从老到小）的采访， 深入了解不同用户的需求的差异和共性。  对不同 “委屈” 表情的调研和优化。   
-
 
 
 姓名：董圣娇
@@ -84,6 +83,6 @@ N（需求）：用户是否真的希望获得此类互动？其需求发生在�
 链接：https://gitee.com/huikangsu/modern-software-engineering/blob/master/Here-User-Study.md    
 反馈： 生活感受器： 做到了 3D 打印的原型和纸片的切换， 和真实用户的反馈。 核心挑战是：墨水屏能否交付足够的 “恰到好处的信息”？ 
 
--- 错过交作业期限 -- 
+-- 错过交作业期限 --   
 姓名： 林沂蒙
 链接：https://gitee.com/fuxiaigc/zgca_mse_202609/blob/master/Here_user_study.md
