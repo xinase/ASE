@@ -1,6 +1,11 @@
 # 智能硬件开发 · 项目计划
 
-（前期的作业：https://gitee.com/zouxin2025/ASE/blob/master/2026-fall-se/homework1-qa.md ）
+团队情况：
+https://gitee.com/vibe-coding-2026-9/zgca_mse_202609/blob/master/Group_and_product.md  
+
+前期的作业：  
+https://gitee.com/zouxin2025/ASE/blob/master/2026-fall-se/homework1-qa.md  
+https://gitee.com/zouxin2025/ASE/blob/master/2026-fall-se/hw-design-user-study.md  
 
 请提交一个 PPT：
 
