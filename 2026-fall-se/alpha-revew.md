@@ -3,9 +3,9 @@
 团队情况：
 [gitee.com/vibe-coding-2026-9/zgca_mse_202609/blob/master/Group_and_product.md](https://gitee.com/vibe-coding-2026-9/zgca_mse_202609/blob/master/Group_and_product.md)
 
-团队千帆竞发图和仓库： [bjzgcai.github.io/ZGCA26SEQF](https://bjzgcai.github.io/ZGCA26SEQF/) 
+团队千帆竞发图和仓库： [bjzgcai.github.io/ZGCA26SEQF](https://bjzgcai.github.io/ZGCA26SEQF/)
 
-前期的作业： 
+前期的作业：
 
 [gitee.com/zouxin2025/ASE/blob/master/2026-fall-se/homework1-qa.md](https://gitee.com/zouxin2025/ASE/blob/master/2026-fall-se/homework1-qa.md)
 
@@ -13,10 +13,11 @@
 
 [gitee.com/zouxin2025/ASE/blob/master/2026-fall-se/hw-project-plan.md](https://gitee.com/zouxin2025/ASE/blob/master/2026-fall-se/hw-project-plan.md)
 
-参考： 《构建之法》第四版。 link： [gitee.com/zouxin2025/ASE](https://gitee.com/zouxin2025/ASE/) 
+参考： 《构建之法》第四版。 link： [gitee.com/zouxin2025/ASE](https://gitee.com/zouxin2025/ASE/)
+
+详细的解释： [gitee.com/zouxin2025/ASE/blob/master/2026-fall-se/OOBE-UX.md](https://gitee.com/zouxin2025/ASE/blob/master/2026-fall-se/OOBE-UX.md) 
 
 本次 Alpha Review，请提交一个你们仓库中的一个 md 文件 （或者 PPT 文件），有下面的内容：
-
 
 # Alpha Release 投资人路演 · 完整汇报单
 
@@ -164,3 +165,5 @@
 - [ ] 所有证据可在 Gitee 仓库按路径查到。
 
 **一句话**：OOBE 三层定调"用户能用、愿付钱"，V&V 与燃尽图证明"质量可信、进度真实"，Pre-mortem 证明"团队会学习"，Beta 计划说明"钱花在哪、下一步怎么赢"。
+
+---
