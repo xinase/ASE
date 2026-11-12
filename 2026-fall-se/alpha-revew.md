@@ -1,21 +1,29 @@
 # 智能硬件开发 · Alpha Review
 
 团队情况：
-https://gitee.com/vibe-coding-2026-9/zgca_mse_202609/blob/master/Group_and_product.md
+[gitee.com/vibe-coding-2026-9/zgca_mse_202609/blob/master/Group_and_product.md](https://gitee.com/vibe-coding-2026-9/zgca_mse_202609/blob/master/Group_and_product.md)
 
-前期的作业：
-https://gitee.com/zouxin2025/ASE/blob/master/2026-fall-se/homework1-qa.md
-https://gitee.com/zouxin2025/ASE/blob/master/2026-fall-se/hw-design-user-study.md
+团队千帆竞发图和仓库： [bjzgcai.github.io/ZGCA26SEQF](https://bjzgcai.github.io/ZGCA26SEQF/) 
 
-请提交一个你们仓库中的一个 md 文件 （或者 PPT 文件），有下面的内容：
+前期的作业： 
+
+[gitee.com/zouxin2025/ASE/blob/master/2026-fall-se/homework1-qa.md](https://gitee.com/zouxin2025/ASE/blob/master/2026-fall-se/homework1-qa.md)
+
+[gitee.com/zouxin2025/ASE/blob/master/2026-fall-se/hw-design-user-study.md](https://gitee.com/zouxin2025/ASE/blob/master/2026-fall-se/hw-design-user-study.md)
+
+[gitee.com/zouxin2025/ASE/blob/master/2026-fall-se/hw-project-plan.md](https://gitee.com/zouxin2025/ASE/blob/master/2026-fall-se/hw-project-plan.md)
+
+参考： 《构建之法》第四版。 link： [gitee.com/zouxin2025/ASE](https://gitee.com/zouxin2025/ASE/) 
+
+本次 Alpha Review，请提交一个你们仓库中的一个 md 文件 （或者 PPT 文件），有下面的内容：
 
 
 # Alpha Release 投资人路演 · 完整汇报单
 
-**目标**：说服投资人——Alpha 进展顺利、需求真实、团队能交付、风险可控、下一轮值得投。
-**两条主线**： 
+**目标**：说服投资人——Alpha 进展顺利、需求真实、团队能交付、风险可控、下一轮仍然值得投我们团队。
+**两条主线**：
 
-1）V&V 质量（质量可信）。
+1）Validation & Verification  内外的质量可信。
 
 2）OOBE 开箱体验（用户能用、愿意付钱），OOBE 按 Norman 三层（Visceral / Behavioral / Reflective）分开呈现。
 
@@ -50,7 +58,7 @@ https://gitee.com/zouxin2025/ASE/blob/master/2026-fall-se/hw-design-user-study.m
 
 - 已验证模块清单、闭环打通、整机稳定运行。
 - 一句话：Alpha 是可被真实用户上手验证的产品，不是 demo。
-- **要证明**：交付的是成果，不是过程。
+- **要证明**：交付的是成果，不光光是过程。
 
 ### 第 5 页｜V&V 质量（核心）
 
@@ -88,17 +96,17 @@ https://gitee.com/zouxin2025/ASE/blob/master/2026-fall-se/hw-design-user-study.m
 
 ### 第 8 页｜Pre-mortem 复盘：预测 vs 现实
 
-- 对照表：每行 **项目初期预测的失败原因 | 是否发生 | 证据路径 | 应对与结果**。
+- 对照表：每行 **项目初期预测的失败原因 | 是否发生 | 证据路径 | 应对与结果**。 （团队之前的作业列出了风险）
 - 明确区分：未发生（风险前置识别与预案有效）vs 发生了（预判准确且有预案收敛）。
 - 学到的事 3 条（具体可操作，如：不阻塞闭环的部件尽早降级；AI 验证成本按 2–3 倍预估并设两轮硬切换；尽早做真实用户无干预 OOBE）。
-- **回到 3 周前会做的 3 件不一样的事**（具体动作 + 时间点，如 Day 1 做纸壳版 OOBE、外壳打印 Day 1 排队或默认纸壳、Day 1 定义 AI 验证脚本与切换规则、接口定义提前冻结签字）。
+- **如果穿越回到 3 周前， 团队会做的 3 件不一样的事会是什么呢？**
 - 结论流入 Beta 的 P0/P1。
-- **要证明**：对不确定性有预判力、会复盘、下一轮更快。
+- **要证明**：团队的成员在成长， 对不确定性有预判力、会复盘、下一轮会做得更好。
 
 ### 第 9 页｜风险与预案
 
-- 已触发预案：砍功能优先级（先砍音效/动画→再砍非核心状态分支→外壳降级纸壳/亚克力）；AI 同一模块两轮修复不过即人工重写，Owner 决策、全组确认。
-- 底线：核心闭环 + 延迟 < 3 秒不可砍。
+- 已触发预案：砍功能优先级（
+- 底线：核心闭环 + 用户体验要保持
 - 每人预估的失败原因与当前应对。
 - **要证明**：风险可控、底线清晰。
 
@@ -128,13 +136,10 @@ https://gitee.com/zouxin2025/ASE/blob/master/2026-fall-se/hw-design-user-study.m
 
 ---
 
-## 二、贯穿全场的三条口径
+## 二、贯穿全场的口径
 
-1. **V&V**：每个"剩余 0"必须能指向一条验证证据；AI 生成部分必须有人工在真实硬件上的验证记录，无超 24h 未验证遗留。
-2. **OOBE**：真实用户、首次使用、仅给说明书、团队不干预；三层（Visceral/Behavioral/Reflective）分开列；必须给愿付价格。
-3. **延迟硬指标**：端到端（触发→反馈）实测中位数 **< 3 秒**，多次测量取中位数，测量记录可查，不可砍。
-
----
+1. **V&V**：产品内外的质量都在改善
+2. **OOBE**：真实用户首次使用就有不错的体验、仅给说明书、团队不干预；三层（Visceral/Behavioral/Reflective）分开列；必须给愿付价格。
 
 ## 三、表述原则
 
